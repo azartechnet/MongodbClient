@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/azartechnet/MongodbClient/static/css/main.ffcbaa33.css",
+    "main.js": "/azartechnet/MongodbClient/static/js/main.073de58c.js",
+    "index.html": "/azartechnet/MongodbClient/index.html",
+    "main.ffcbaa33.css.map": "/azartechnet/MongodbClient/static/css/main.ffcbaa33.css.map",
+    "main.073de58c.js.map": "/azartechnet/MongodbClient/static/js/main.073de58c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffcbaa33.css",
+    "static/js/main.073de58c.js"
+  ]
+}
