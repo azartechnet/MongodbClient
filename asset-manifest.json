@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MongodbClient/static/css/main.ffcbaa33.css",
-    "main.js": "/MongodbClient/static/js/main.073de58c.js",
+    "main.js": "/MongodbClient/static/js/main.d3f0c335.js",
     "index.html": "/MongodbClient/index.html",
     "main.ffcbaa33.css.map": "/MongodbClient/static/css/main.ffcbaa33.css.map",
-    "main.073de58c.js.map": "/MongodbClient/static/js/main.073de58c.js.map"
+    "main.d3f0c335.js.map": "/MongodbClient/static/js/main.d3f0c335.js.map"
   },
   "entrypoints": [
     "static/css/main.ffcbaa33.css",
-    "static/js/main.073de58c.js"
+    "static/js/main.d3f0c335.js"
   ]
 }
