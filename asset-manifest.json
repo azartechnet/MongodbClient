@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/azartechnet/MongodbClient/static/css/main.ffcbaa33.css",
-    "main.js": "/azartechnet/MongodbClient/static/js/main.073de58c.js",
-    "index.html": "/azartechnet/MongodbClient/index.html",
-    "main.ffcbaa33.css.map": "/azartechnet/MongodbClient/static/css/main.ffcbaa33.css.map",
-    "main.073de58c.js.map": "/azartechnet/MongodbClient/static/js/main.073de58c.js.map"
+    "main.css": "/MongodbClient/static/css/main.ffcbaa33.css",
+    "main.js": "/MongodbClient/static/js/main.073de58c.js",
+    "index.html": "/MongodbClient/index.html",
+    "main.ffcbaa33.css.map": "/MongodbClient/static/css/main.ffcbaa33.css.map",
+    "main.073de58c.js.map": "/MongodbClient/static/js/main.073de58c.js.map"
   },
   "entrypoints": [
     "static/css/main.ffcbaa33.css",
