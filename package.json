@@ -1,5 +1,5 @@
 {
-  "homepage": "https://azartechnet.github.io/azartechnet/MongodbClient",
+  "homepage": "https://azartechnet.github.io/MongodbClient",
   "name": "client",
   "version": "0.1.0",
   "private": true,
